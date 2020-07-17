@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15195608139038,
+          40.00919293330641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CCLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16476631164551,
+          39.950756827139195
+        ]
+      }
+    }
+  ]
+}
